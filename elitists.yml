@@ -1,0 +1,30 @@
+name: Elitists Clan Family
+key: elitists
+color: purple
+emblem: Star_Shine_03
+sort: trophy
+info:
+  logo: /static/img/brands/logo/nova.svg
+  description: >
+    **Competitive excellence through community-driven values.**
+    Nova is a mobile-focused eSports organization committed to empowering
+    individuals through a supportive team environment.
+    We look for talent that has the character to back it up.
+    That talent is cultivated and supported through team-based growth strategies and
+    passionate staff that care about player outcomes.
+    Community is the foundation of those outcomes and is the core of player dedication.
+  social:
+    - website: https://novaesports.com/
+    - twitter: https://twitter.com/NovaeSportsTeam
+    - instagram: https://instagram.com/novaesportsgg
+    - facebook: https://facebook.com/OfficialNovaeSports
+    - twitch: https://twitch.tv/NovaeSportsGG
+    - youtube: https://www.youtube.com/channel/UC4JS5NiRp4Sy1wl6qFkW3GQ
+    - application: https://novaesports.com/apply
+    - email: mailto:pr@novaesports.com
+clans:
+  - name: Nova eSports
+    tag: LCVUYCR
+  - name: Nova I ARG
+    tag: 8QC8YQJC
+  
